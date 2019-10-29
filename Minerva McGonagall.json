@@ -1,1 +1,14 @@
-{"name":"Minerva McGonagall","species":"human","gender":"female","house":"Gryffindor","dateOfBirth":"04-10-1925","yearOfBirth":1925,"ancestry":"half-blood","eyeColour":"half-blood","hairColour":"black","wand":{"wood":"","core":"","length":""},"patronus":"tabby cat","hogwartsStudent":false,"hogwartsStaff":true,"actor":"Dame Maggie Smith","alive":true,"image":"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/34759146_2101430339885034_4244559867597029376_n.jpg?_nc_cat=110&_nc_ht=scontent-cdg2-1.xx&oh=b91d2885e2db5a3a6e0241b51fc0c4d0&oe=5D581EA9"}
+{
+  "name":"Minerva McGonagall",
+  "species":"human",
+  "gender":"female",
+  "house":"Gryffindor",
+  "dateOfBirth":"04-10-1925",
+  "ancestry":"half-blood",
+  "eyeColour":"half-blood",
+  "hairColour":"black",
+  "patronus":"tabby cat",
+  "actor":"Dame Maggie Smith",
+  "image":"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/34759146_2101430339885034_4244559867597029376_n.jpg?_nc_cat=110&_nc_ht=scontent-cdg2-1.xx&oh=b91d2885e2db5a3a6e0241b51fc0c4d0&oe=5D581EA9",
+  "resumer":"Minerva McGonagall est la directrice-adjointe de Poudlard, ainsi que le Professeur de Métamorphose et la responsable de la Maison des Gryffondor. Elle est venue à Privet Drive observer Hagrid déposer Harry bébé chez les Dursley. Elle a une allure sévère et porte des lunettes carrées. Ses cheveux sont tirés en un chignon serré, et son nez est pointu. McGonagall est également un animagus et peut se transformer en chat tigré. Ce dernier a des motifs autours des yeux, correspondant aux lunettes de la sorcière. McGonagall est un professeur de métamorphose stricte et intelligente; il vaut mieux éviter de la contrarier. Tout chahut est puni d'une exclusion définitive de son cours, mais elle possède de toute façon le don de maintenir sans effort le silence dans une classe. On apprend dans OdP que McGonagall enseignera à Poudlard depuis 39 ans en décembre de cette année là. Dans OdP, elle se retrouve mal en point après avoir reçu quatre Stupefix en essayant d'intervenir lors de la tentative d'arrestation de Hagrid par des Aurors. Elle revient de Ste Mangouste à la fin de OdP, en bonne santé malgré son âge et la gravité de ses blessures. Son Patronus prend la forme de son Animagus, un chat avec des marques de lunettes autour des yeux. Sous le régime des Mangemorts à Poudlard, McGonagall fait son possible pour protéger les élèves. Elle fait partie de ceux prenant part à la bataille finale à Poudlard."
+}

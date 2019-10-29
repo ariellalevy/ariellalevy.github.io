@@ -1,1 +1,14 @@
-{"name":"Vincent Crabbe","species":"human","gender":"male","house":"Slytherin","dateOfBirth":"1980","yearOfBirth":"","ancestry":"pure-blood","eyeColour":"black","hairColour":"black","wand":{"wood":"","core":"","length":""},"patronus":"no data","hogwartsStudent":true,"hogwartsStaff":false,"actor":"Jamie Waylett","alive":false,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/01/PromoHP3_Vincent_Crabbe.jpg/revision/latest?cb=20091021101504&path-prefix=fr"}
+{
+  "name":"Vincent Crabbe",
+  "species":"human",
+  "gender":"male",
+  "house":"Slytherin",
+  "dateOfBirth":"1980",
+  "ancestry":"pure-blood",
+  "eyeColour":"black",
+  "hairColour":"black",
+  "patronus":"no data",
+  "actor":"Jamie Waylett",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/01/PromoHP3_Vincent_Crabbe.jpg/revision/latest?cb=20091021101504&path-prefix=fr",
+  "resumer":"Vincent Crabbe est l'un des accolytes de Drago. C'est un garçon solidement bâti et à l'air féroce. Son nez est plat et ses bras sont raides. Il est coiffé avec une coupe au bol, et son cou est très épais. C'est son apparance que Ron a prise avec la potion de Polynectar dans CdS. Crabbe devient batteur pour Serpentard dans OdP, et membre de la Brigade Inquisitoriale. Dans RdM, Crabbe lance un sort de Feudeymon qui tourne mal dans la Salle sur Demande, où il trouvera la mort."
+}

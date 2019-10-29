@@ -1,1 +1,14 @@
-{"name":"Harry Potter","species":"human","gender":"male","house":"Gryffindor","dateOfBirth":"31-07-1980","yearOfBirth":1980,"ancestry":"half-blood","eyeColour":"green","hairColour":"black","wand":{"wood":"holly","core":"phoenix feather","length":11},"patronus":"stag","hogwartsStudent":true,"hogwartsStaff":false,"actor":"Daniel Radcliffe","alive":true,"image":"http://www.elbakin.net/fantasy/cinema/dossier-phenix/img/harry-potter.jpg"}
+{
+  "name":"Harry Potter",
+  "species":"human",
+  "gender":"male",
+  "house":"Gryffindor",
+  "dateOfBirth":"31-07-1980",
+  "ancestry":"half-blood",
+  "eyeColour":"green",
+  "hairColour":"black",
+  "patronus":"stag",
+  "actor":"Daniel Radcliffe",
+  "image":"http://www.elbakin.net/fantasy/cinema/dossier-phenix/img/harry-potter.jpg",
+  "resumer":"Au début de la série, Harry Potter est décrit comme assez frêle et chétif, dû à sa malnutrition chez les Dursley. Il est assez petit pour son âge, avec des genoux noueux. À quinze ans, il est décrit comme étant pâle et légèrement maladif, comme une personne ayant « beaucoup grandi en peu de temps », et son apparence est négligée en dehors des périodes scolaires. Tout au long de l'histoire, d'autres personnages s'évertuent à lui rappeler qu'il a le physique de son père sans grande précision : les cheveux noirs en bataille. Mais il a les yeux vert émeraude et en forme d'amande de sa mère. Il porte des lunettes rondes à monture noire et une fine cicatrice en forme d'éclair sur le front, souvent cachée par ses mèches. Harry est assez timide et plutôt modeste. Il reconnaît très volontiers la difficulté, voire l'incapacité, d'affronter ses peurs et son principal ennemi sans l'aide précieuse de ses amis, en particulier celle de Ron et d'Hermione. Comme d'autres élèves de la maison Gryffondor à laquelle il appartient, Harry sait faire preuve de courage et de discernement, même si ses sentiments l'emportent quelquefois sur sa sagesse (comme Hermione le lui rappelle souvent). Il peut aussi lui arriver quelquefois de perdre patience et de faire exploser sa colère, notamment en cinquième année, alors qu'il est tenu volontairement à l'écart des événements majeurs par les membres de l'Ordre du Phénix, et après la mort de son parrain, alors qu'il est retenu dans le bureau de Dumbledore. Bien que ce dernier soit considéré comme mentor et figure de bienveillance, il arrive à plusieurs reprises que Harry et Dumbledore en viennent à hausser le ton. Sa baguette renferme une plume du phénix Fumseck, le phénix d'Albus Dumbledore. Harry Potter est aussi un très bon joueur de Quidditch-ce qu'il tient de son père, un sport très courant chez les sorciers. Il est d'ailleurs joueur dans l'équipe de Gryffondor pendant presque toute sa scolarité en tant qu'attrapeur. Entré en première année dans l'équipe, il est le plus jeune attrapeur depuis un siècle. 19ans après la bataille il se marie avec Ginny Weasley avec elle ils auront 3 enfant Lily, Albus et James. Harry devient directeur du département de la justice magique."
+}

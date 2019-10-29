@@ -1,1 +1,14 @@
-{"name":"Dolores Umbridge","species":"human","gender":"female","house":"Slytherin","dateOfBirth":"1965","yearOfBirth":"","ancestry":"half-blood","eyeColour":"brown","hairColour":"grey","wand":{"wood":"birch","core":"dragon heartstring","length":8},"patronus":"persian cat","hogwartsStudent":false,"hogwartsStaff":true,"actor":"Imelda Staunton","alive":true,"image":"https://i.pinimg.com/736x/ab/ea/6d/abea6d7da68b6bb6881bf36673d0b9fc.jpg"}
+{
+  "name":"Dolores Umbridge",
+  "species":"human",
+  "gender":"female",
+  "house":"Slytherin",
+  "dateOfBirth":"1965",
+  "ancestry":"half-blood",
+  "eyeColour":"brown",
+  "hairColour":"grey",
+  "patronus":"persian cat",
+  "actor":"Imelda Staunton",
+  "image":"https://i.pinimg.com/736x/ab/ea/6d/abea6d7da68b6bb6881bf36673d0b9fc.jpg",
+  "resumer":"Ombrage est sous-secrétaire d'Etat auprès du Ministre, Cornelius Fudge. C'est une sorcière à la silhouette trapue, avec une grosse tête sur un cou quasi inexistant. Elle a une bouche large et molle et de grands yeux ronds la faisant ressembler à un gros crapaud. Ses cheveux chatain clair sont courts et bouclés, sa voix aigrelette et haut perchée, tandis que ses dents sont pointues. Elle porte souvent un bandeau rose dans les cheveux et un cardigan pelucheux, rose lui aussi. Elle fait partie du jury de l'audience disciplinaire de Harry, et fait partie de ceux qui votent contre son innocentement. Dès le début de l'année dans OdP, elle devient professeur de Défense contre les Forces du Mal, et est plutôt mal aimée en tant que tel. En effet, ses cours sont uniquement théoriques, et consistent simplement à lire le manuel. En plus de cela, elle ne cesse de donner des retenues particulièrement atroces à Harry au cours desquels il doit presque littéralement écrire ses lignes dans sa propre chair. Quelques semaines après le début de l'année scolaire, elle devient également Grande Inquisitrice, et s'attire l'antipathie de la plupart des professeurs. Grâce à ses droits, qui augmentent progressivement au cours de l'année, elle interdit à Harry, Fred et George de jouer au Quidditch après la bagarre suivant le match Gryffondor contre Serpentard, et confisque leurs balais. On découvre plus tard que c'est elle qui a donné l'ordre aux Détraqueurs d'attaquer Harry pendant l'été précédent OdP. Harry et Hermione la mènent dans la Forêt Interdite en lui faisant croire qu'ils ont préparé une arme pour Dumbledore, et elle se fait attaquer par les Centaures. C'est Dumbledore qui l'en ressortira, complètement sonnée. Ombrage est en possession du pendentif contenant un Horcrux, après l'avoir confisqué à Mondingus Fletcher (qui l'avait volé au 12, Square Grimmaurd) pour fermer les yeux sur ses activités de marché noir. Ombrage est sous-secrétaire du Ministre, et à la tête de la Commission d'enregistrement des nés-Moldus. Elle est une parente des Selwyn (des Mangemorts...). Elle prétend que le pendentif est un héritage de famille, et que le S gravé dessus vient de Selwyn. Son Patronus prend la forme d'un chat."
+}

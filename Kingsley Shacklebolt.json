@@ -1,1 +1,14 @@
-{"name":"Kingsley Shacklebolt","species":"human","gender":"male","house":"no data","dateOfBirth":"no data","yearOfBirth":"","ancestry":"pure-blood","eyeColour":"brown","hairColour":"brown","wand":{"wood":"","core":"","length":""},"patronus":"lynx","hogwartsStudent":false,"hogwartsStaff":false,"actor":"George Harris","alive":true,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/62/PromoHP5_Kingsley_Shacklebolt.jpg/revision/latest?cb=20080416111339&path-prefix=fr"}
+{
+  "name":"Kingsley Shacklebolt",
+  "species":"human",
+  "gender":"male",
+  "house":"no data",
+  "dateOfBirth":"no data",
+  "ancestry":"pure-blood",
+  "eyeColour":"brown",
+  "hairColour":"brown",
+  "patronus":"lynx",
+  "actor":"George Harris",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/62/PromoHP5_Kingsley_Shacklebolt.jpg/revision/latest?cb=20080416111339&path-prefix=fr",
+  "resumer":"Grand sorcier noir et chauve, à la voix grave et lente. Il porte un anneau d'or à l'oreille. Auror d'un rang supérieur à Tonks et membre de l'Ordre du Phénix, il fait partie de la garde rapprochée chargée d'escorter Harry au siège de l'Ordre dans OdP. Il est aussi présent lors de la bataille au Département des Mystères. C'est l'Auror chargé de rechercher Sirius par le Ministère, il peut donc brouiller les pistes: il fait croire que Sirius s'est réfugié au Tibet. Dans PdSM, Kingsley devient le nouveau secrétaire du Premier Ministre Moldu, afin d'assurer sa sécurité. Lors du départ de Harry de Privet Drive dans RdM à l'approche de ses 17 ans, Kingsley est l'un des membres de l'Ordre du Phénix jouant les accompagnateurs d'un autre membre ayant pris l'apparence de Harry grâce à une potion de Polynectar, le tout afin de brouiller les pistes. Il accompagne Hermione. Son Patronus prend la forme d'un lynx. Kingsley a failli se faire avoir par le 'Tabou' en prononçant le nom de Voldemort, mais il a réussi à échapper aux Mangemorts et s'est mit en fuite. Kingsley participe à la radio libre 'Potterveille' sous le surnom 'Royal'. Il fait partie de ceux prenant part à la bataille finale à Poudlard. Après la mort de Voldemort, Kingsley devient Ministère de la Magie temporaire."
+}

@@ -1,1 +1,14 @@
-{"name":"Lucius Malfoy","species":"human","gender":"male","house":"Slytherin","dateOfBirth":"1954","yearOfBirth":1954,"ancestry":"pure-blood","eyeColour":"grey","hairColour":"blonde","wand":{"wood":"elm","core":"dragon heartstring","length":18},"patronus":"no data","hogwartsStudent":false,"hogwartsStaff":false,"actor":"Jason Isaacs","alive":true,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/c/ce/PromoHP5_Lucius_Malefoy.jpg/revision/latest?cb=20091110145939&path-prefix=fr"}
+{
+  "name":"Lucius Malfoy",
+  "species":"human",
+  "gender":"male",
+  "house":"Slytherin",
+  "dateOfBirth":"1954",
+  "ancestry":"pure-blood",
+  "eyeColour":"grey",
+  "hairColour":"blonde",
+  "patronus":"no data",
+  "actor":"Jason Isaacs",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/c/ce/PromoHP5_Lucius_Malefoy.jpg/revision/latest?cb=20091110145939&path-prefix=fr",
+  "resumer":"Lucius Malefoy est le père de Drago. C'est un homme au teint pâle, au nez pointu et aux yeux gris et froids. Il est très méprisant envers les Moldus ou les enfants sorciers nés de parents Moldus, estimant que seuls les sorciers purs mériteraient d'étudier la magie. Riche et puissant, il méprise les Weasley pour leur pauvreté. Il possède dans son manoir une grande quantité de poisons et autres produits dangereux et prohibés par le Ministère de la Magie, dans une chambre secrète située sous le parquet du grand salon. Avant la première rentrée scolaire de Ginny dans CdS, il glisse dans les affaires de celle-ci le journal intime de Tom Jedusor. En effet si Ginny avait été accusée d'avoir ouvert la Chambre des Secrets et d'être la responsable des victimes du Basilic, l'Acte de Protection des Moldus proposé par son père et méprisé par Malefoy aurait été mis en péril. Lucius Malefoy est membre du conseil d'administration de Poudlard, et a toujours dit que la nomination de Dumbledore comme directeur est la pire chose qui soit jamais arrivée à cette école. Il fait d'ailleurs pression sur les autres membres du conseil - en les menaçant de lancer des malédictions sur leurs familles - pour le suspendre de ses fonctions lorsques des élèves sont retrouvés pétrifiés dans CdS; mais lorsque Ginny disparait les autres membres rappellent Dumbledore et renvoient Malefoy du conseil d'administration. Lucius Malefoy est un Mangemort. Il est très influant et a beaucoup de relations. Il arrose d'argent toutes sortes d'organismes, ce qui lui permet entre autre de retarder l'examen de certains projets de lois qu'il ne veut pas voir passer. Il doit être proche de Rogue, car il parle de celui-ci à Ombrage en propos très élogieux. Il semble être le meneur des Mangemorts lors de la bataille au Département des Mystères. A la fin de celle-ci, il est arrêté et emprisonné à Azkaban. Le nouveau QG des Mangemorts se trouve au manoir des Malefoys. Sa baguette est composée de bois d'orme de de ventricule de coeur de dragon. Il prête sa baguette à Voldemort, qui sait ne pas pouvoir utiliser la sienne face à Harry, mais la baguette se fait malgré tout détruire par celle de Harry. Lorsque Lucius était à Poudlard, il était préfêt de Serpentard."
+}

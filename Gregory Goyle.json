@@ -1,1 +1,14 @@
-{"name":"Gregory Goyle","species":"human","gender":"male","house":"Slytherin","dateOfBirth":"1980","yearOfBirth":"","ancestry":"pure-blood","eyeColour":"no data","hairColour":"brown","wand":{"wood":"","core":"","length":""},"patronus":"no data","hogwartsStudent":true,"hogwartsStaff":false,"actor":"Josh Herdman","alive":true,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/9f/PromoHP3_Gregory_Goyle.jpg/revision/latest?cb=20091021125109&path-prefix=fr"}
+{
+  "name":"Gregory Goyle",
+  "species":"human",
+  "gender":"male",
+  "house":"Slytherin",
+  "dateOfBirth":"1980",
+  "ancestry":"pure-blood",
+  "eyeColour":"no data",
+  "hairColour":"brown",
+  "patronus":"no data",
+  "actor":"Josh Herdman",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/9f/PromoHP3_Gregory_Goyle.jpg/revision/latest?cb=20091021125109&path-prefix=fr",
+  "resumer":"Gregory Goyle est l'un des accolytes de Drago. C'est un garçon solidement bâti et à l'air féroce. Ses cheveux sont courts et raides, et ses yeux sont ternes et profondément enfoncés dans leurs orbites. C'est son apparance que Harry a prise avec la potion de Polynectar dans CdS. Goyle devient batteur pour Serpentard dans OdP, et membre de la Brigade Inquisitoriale."
+}

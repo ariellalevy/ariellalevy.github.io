@@ -1,1 +1,15 @@
-{"name":"Bellatrix Lestrange","species":"human","gender":"female","house":"Slytherin","dateOfBirth":"1951","yearOfBirth":1951,"ancestry":"pure-blood","eyeColour":"brown","hairColour":"black","wand":{"wood":"walnut","core":"dragon heartstring","length":12.75},"patronus":"no data","hogwartsStudent":false,"hogwartsStaff":false,"actor":"Helena Bonham Carter","alive":false,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Bellatrix-promo-bellatrix-lestrange-28967575-1574-2100.jpg/revision/latest?cb=20141115084707&path-prefix=fr"}
+{
+  "name":"Bellatrix Lestrange",
+  "species":"human",
+  "gender":"female",
+  "house":"Slytherin",
+  "dateOfBirth":"1951",
+  "yearOfBirth":1951,
+  "ancestry":"pure-blood",
+  "eyeColour":"brown",
+  "hairColour":"black",
+  "patronus":"no data",
+  "actor":"Helena Bonham Carter",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Bellatrix-promo-bellatrix-lestrange-28967575-1574-2100.jpg/revision/latest?cb=20141115084707&path-prefix=fr",
+  "resumer":"Cousine de Sirius, soeur de Narcissa Malefoy et Andromeda Tonks. Grande sorcière brune aux paupières lourdes, elle a épousé Rodolphus Lestrange avec qui elle a rejoint les Mangemorts, avant d'être enfermés à Azkaban après la chute de Voldemort pour avoir torturé les Londubat. C'est Voldemort lui-même qui lui a appris à maîtriser les Forces du Mal. Dans OdP, Bellatrix s'évade d'Azkaban avec neuf autres Mangemorts. Elle est présente lors de la bataille au Département des Mystères, et c'est elle qui tuera Sirius. Dans PdSM, Bellatrix doute de la loyauté de Rogue envers Voldemort. Sa baguette est faite de bois de noyer, et d'un ventricule de coeur de dragon, et mesure 12 pouces 3/4. Elle est la mère de Delephini selon celle-ci qu'elle aurait eu avec Voldemort avant la bataille de Poudlard."
+}

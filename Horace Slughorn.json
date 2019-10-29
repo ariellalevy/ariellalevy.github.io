@@ -1,1 +1,14 @@
-{"name":"Horace Slughorn","species":"human","gender":"male","house":"Slytherin","dateOfBirth":"no data","yearOfBirth":"","ancestry":"pure-blood","eyeColour":"green","hairColour":"blonde","wand":{"wood":"cedar","core":"dragon heartstring","length":10.25},"patronus":"no data","hogwartsStudent":false,"hogwartsStaff":true,"actor":"Jim Broadbent","alive":true,"image":"https://vignette.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20100706114608"}
+{
+  "name":"Horace Slughorn",
+  "species":"human",
+  "gender":"male",
+  "house":"Slytherin",
+  "dateOfBirth":"no data",
+  "ancestry":"pure-blood",
+  "eyeColour":"green",
+  "hairColour":"blonde",
+  "patronus":"no data",
+  "actor":"Jim Broadbent",
+  "image":"https://vignette.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20100706114608",
+  "resumer":"Horace Slughorn est un homme âgé, gros et chauve, avec une énorme moustache 'à la gauloise'. C'est un vieil ami et collègue de Dumbledore. En effet, il enseignait déjà à Poudlard de nombreuses années plus tôt, et a débuté en même temps que Dumbledore; il a d'ailleurs été le professeur de Voldemort, de Arthur et Molly Weasley, de Lily et des Maraudeurs. Il était directeur de Serpentard à l'époque des Maraudeurs. A l'époque, Lily était l'une de ses élèves favorites. Il a formé une sorte de club constitué de certains de ses anciens élèves, le 'Club de Slug'. Slughorn ne reste jamais installé longtemps au même endroit: au début de PdSM, il vit temporairement dans la maison de Moldus partis en vacances aux Canaries. Lorsque Dumbledore vient l'y voir pour lui demander de reprendre un poste d'enseignant, Slughorn met en scène une attaque, afin de ne pas être dérangé.'' On pense d'abord que Slughorn est le nouveau professeur de Défense Contre les Forces du Mal, mais il est en réalité le nouveau professeur de Potions. Il n'aime pas que le nom de Voldemort soit prononcé.'' Autrefois, Slughorn était blond.'' Dans RdM, Slughorn est le responsable de la maison des Serpentard. Il fait partie de ceux prenant part à la bataille finale à Poudlard."
+}

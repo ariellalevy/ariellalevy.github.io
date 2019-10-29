@@ -1,1 +1,14 @@
-{"name":"Cedric Diggory","species":"human","gender":"male","house":"Hufflepuff","dateOfBirth":"1977","yearOfBirth":1977,"ancestry":"no data","eyeColour":"grey","hairColour":"brown","wand":{"wood":"ash","core":"unicorn hair","length":12.25},"patronus":"no data","hogwartsStudent":true,"hogwartsStaff":false,"actor":"Robert Pattinson","alive":false,"image":"https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F3304%2F79633304%2Fpics%2F3030636224_1_5_o2uqiz7P.jpg&w=240"}
+{
+  "name":"Cedric Diggory",
+  "species":"human",
+  "gender":"male",
+  "house":"Hufflepuff",
+  "dateOfBirth":"1977",
+  "ancestry":"no data",
+  "eyeColour":"grey",
+  "hairColour":"brown",
+  "patronus":"no data",
+  "actor":"Robert Pattinson",
+  "image":"https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F3304%2F79633304%2Fpics%2F3030636224_1_5_o2uqiz7P.jpg&w=240",
+  "resumer": "Cédric devient Attrapeur et captaine de l'équipe de Quidditch de Poufsouffle lors de la 3e année de Harry à Poudlard. C'est un garçon grand et séduisant, aux épaules d'athlète. Son nez est droit, ses cheveux bruns et ses yeux sont gris. Il ne dit presque jamais rien, et selon Fred et George c'est parce qu'il est trop bête pour aligner deux mots. Son père est Amos Diggory. C'est un très bon joueur de Quidditch, qui vire très rapidement, et qui, selon Dubois, a réussi à constituer une très bonne équipe. Cédric est très fair play: en effet, lors du match Gryffondor/Poufsouffle en pleine tempête dans PA et qu'il attrape le Vif d'or sans voir que Harry tombait, il demande à annuler le match. Il est également très modeste et n'aime pas se vanter. Préfêt dans CdF, c'est un très bon élève. Il se rend au bal du Tournoi des 3 Sorciers accompagné par Cho Chang. Cédric va également représenter Poudlard au Tournoi des 3 Sorciers, à l'issue duquel il sera assassiné par Pettigrow sur ordre de Voldemort."
+}

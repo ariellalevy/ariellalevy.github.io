@@ -12,7 +12,8 @@
 		"actor":"Daniel Radcliffe",
 		"image":"http://www.elbakin.net/fantasy/cinema/dossier-phenix/img/harry-potter.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Hermione Granger",
 		"species":"human",
 		"gender":"female",
@@ -25,7 +26,8 @@
 		"actor":"Emma Watson",
 		"image":"https://wingardium-leviosa.com/wp-content/uploads/2018/03/hermione-granger-personnage-categorie-1.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Ron Weasley",
 		"species":"human",
 		"gender":"male",
@@ -38,12 +40,13 @@
 		"actor":"Rupert Grint",
 		"image":"http://3.bp.blogspot.com/-Qr9KWEiJY5I/TtDwkrDlRHI/AAAAAAAAABg/PMo3zTWI-os/s1600/rw.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Draco Malfoy",
 		"species":"human",
 		"gender":"male",
 		"house":"Slytherin",
-		"dateOfBirth":"05-06-1980"
+		"dateOfBirth":"05-06-1980",
 		"ancestry":"pure-blood",
 		"eyeColour":"grey",
 		"hairColour":"blonde",
@@ -51,7 +54,8 @@
 		"actor":"Tom Felton",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6d/Draco_Malfoyyy.jpg/revision/latest?cb=20090608163311",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Minerva McGonagall",
 		"species":"human",
 		"gender":"female",
@@ -64,7 +68,8 @@
 		"actor":"Dame Maggie Smith",
 		"image":"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/34759146_2101430339885034_4244559867597029376_n.jpg?_nc_cat=110&_nc_ht=scontent-cdg2-1.xx&oh=b91d2885e2db5a3a6e0241b51fc0c4d0&oe=5D581EA9",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Cedric Diggory",
 		"species":"human",
 		"gender":"male",
@@ -90,7 +95,8 @@
 		"actor":"Katie Leung",
 		"image":"https://i.pinimg.com/236x/aa/2e/03/aa2e03e3aaeda5534c21dfd4fe592967.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Severus Snape",
 		"species":"human",
 		"gender":"male",
@@ -103,7 +109,8 @@
 		"actor":"Alan Rickman",
 		"image":"https://vignette.wikia.nocookie.net/dumbledoresarmyroleplay/images/a/a3/Severus_Snape.jpg/revision/latest?cb=20130708213759",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Rubeus Hagrid",
 		"species":"half-giant",
 		"gender":"male",
@@ -116,7 +123,8 @@
 		"actor":"Robbie Coltrane",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/e/ee/Rubeushagrid.PNG/revision/latest?cb=20161123044204",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Neville Longbottom",
 		"species":"human",
 		"gender":"male",
@@ -129,7 +137,8 @@
 		"actor":"Matthew Lewis",
 		"image":"https://file1.closermag.fr/var/closermag/storage/images/media/images-des-contenus/actu-people/people-anglo-saxons/20150522-matthew/matthew-lewis-incarne-neville-londubat-dans-la-saga-harry-potter/4528446-1-fre-FR/Matthew-Lewis-incarne-Neville-Londubat-dans-la-saga-Harry-Potter_exact1024x768_p.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Luna Lovegood",
 		"species":"human",
 		"gender":"female",
@@ -142,7 +151,8 @@
 		"actor":"Evanna Lynch",
 		"image":"http://pm1.narvii.com/6913/716d462775ef1f51d655a1d8afd289d999c9ae8dr1-1200-1601v2_00.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Ginny Weasley",
 		"species":"human",
 		"gender":"female",
@@ -155,7 +165,8 @@
 		"actor":"Bonnie Wright",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/3/39/PromoHP7_Ginny_Weasley.jpg/revision/latest?cb=20110901204301&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Sirius Black",
 		"species":"human",
 		"gender":"male",
@@ -168,7 +179,8 @@
 		"actor":"Gary Oldman",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/93/PromoHP5_Sirius_Black.jpg/revision/latest?cb=20090601145207&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Remus Lupin",
 		"species":"werewolf",
 		"gender":"male",
@@ -181,7 +193,8 @@
 		"actor":"David Thewlis",
 		"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mkwFPr01-vD0WHOwXJZjuPwIfd3aiY5UAB-KpwExNYAV6oiD",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Arthur Weasley",
 		"species":"human",
 		"gender":"male",
@@ -194,7 +207,8 @@
 		"actor":"Mark Williams",
 		"image":"http://ekladata.com/uMNuq-9Jt--rRn5vFdU1qQfcPIU@335x439.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Bellatrix Lestrange",
 		"species":"human",
 		"gender":"female",
@@ -207,7 +221,8 @@
 		"actor":"Helena Bonham Carter",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Bellatrix-promo-bellatrix-lestrange-28967575-1574-2100.jpg/revision/latest?cb=20141115084707&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Lord Voldemort",
 		"species":"human",
 		"gender":"male",
@@ -220,7 +235,8 @@
 		"actor":"Ralph Fiennes",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest?cb=20161203031453",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Horace Slughorn",
 		"species":"human",
 		"gender":"male",
@@ -233,7 +249,8 @@
 		"actor":"Jim Broadbent",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20100706114608",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Kingsley Shacklebolt",
 		"species":"human",
 		"gender":"male",
@@ -246,7 +263,8 @@
 		"actor":"George Harris",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/62/PromoHP5_Kingsley_Shacklebolt.jpg/revision/latest?cb=20080416111339&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Dolores Umbridge",
 		"species":"human",
 		"gender":"female",
@@ -259,7 +277,8 @@
 		"actor":"Imelda Staunton",
 		"image":"https://i.pinimg.com/736x/ab/ea/6d/abea6d7da68b6bb6881bf36673d0b9fc.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Lucius Malfoy",
 		"species":"human",
 		"gender":"male",
@@ -272,7 +291,8 @@
 		"actor":"Jason Isaacs",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/c/ce/PromoHP5_Lucius_Malefoy.jpg/revision/latest?cb=20091110145939&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Vincent Crabbe",
 		"species":"human",
 		"gender":"male",
@@ -285,7 +305,8 @@
 		"actor":"Jamie Waylett",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/01/PromoHP3_Vincent_Crabbe.jpg/revision/latest?cb=20091021101504&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Gregory Goyle",
 		"species":"human",
 		"gender":"male",
@@ -298,7 +319,8 @@
 		"actor":"Josh Herdman",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/9f/PromoHP3_Gregory_Goyle.jpg/revision/latest?cb=20091021125109&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Mrs Norris",
 		"species":"cat",
 		"gender":"female",
@@ -311,7 +333,8 @@
 		"actor":"Maxime, Alanis and Tommy the cats",
 		"image":"http://a51.idata.over-blog.com/0/41/67/66/mrs_teigne.jpg",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Argus Filch",
 		"species":"human",
 		"gender":"male",
@@ -324,7 +347,8 @@
 		"actor":"David Bradley",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6f/Argus_Rusard_promo_HD.jpg/revision/latest?cb=20141114140114&path-prefix=fr",
 		"resumer":""
-	},{
+	},
+	{
 		"name":"Rose Granger-Weasley",
 		"species":"human",
 		"gender":"female",
@@ -337,7 +361,8 @@
 		"actor":"Helena Barlow and Cherrelle Skeete",
 		"image":"http://vignette4.wikia.nocookie.net/harrypotter/images/2/26/Rose_w.jpg/revision/latest?cb=20120517112206&path-prefix=pl",
 		"resumer":"Fille d'Hermione Granger et de Ron Weasley, elle se brouille avec Albus Severus Potter lorsque celui-ci devient ami avec Scorpius Malefoy. Scorpius en est amoureux."
-	},{
+	},
+	{
 		"name":"Albus Potter",
 		"species":"human",
 		"gender":"male",
@@ -350,7 +375,8 @@
 		"actor":"Arthur Bowen and Sam Clemmett",
 		"image":"https://cnet3.cbsistatic.com/img/g61-UktfjHPk_ZRLW2Z5ep1C5BQ=/0x65:1183x1064/0x878/2016/05/31/81f8eb83-4083-4b99-a12d-2df19c5ae16a/albus-potter-sam-clemmett.jpg",
 		"resumer":"Albus Severus Potter est le second fils de Harry et Ginny. Il est le seul des enfants à avoir les yeux de Harry et de sa grand-mère Lily Potter. Il est joué par le jeune Arthur Bowen dans l'épilogue de Harry Potter et les Reliques de la Mort 2e partie. Il est également l'un des personnages principaux de la pièce de théâtre Harry Potter et l'Enfant maudit. Il est étudiant à Poudlard, dans la maison Serpentard, et son meilleur ami est Scorpius Malefoy, le fils du rival de son père, Drago Malefoy."
-	},{
+	},
+	{
 		"name":"Scorpius Malefoy",
 		"species":"human",
 		"gender":"male",
@@ -363,7 +389,8 @@
 		"actor":"Bertie Gilbert and Anthony Boyle",
 		"image":"http://vignette3.wikia.nocookie.net/harrypotter/images/c/cd/Scorpius_Malfoy_%28HPCC%29.png/revision/latest?cb=20161122213423",
 		"resumer":"Scorpius Hyperion Malefoy est le fils de Drago Malefoy. C'est également le meilleur ami d'Albus Potter. Ils se rencontrent à bord du Poudlard Express, juste avant d'entamer leur première année. Ils se mettent côte à côte dans le train et sympathisent malgré leurs différences et leurs parents semblant se détester. Lorsque Scorpius est admis à Serpentard, Albus le suit. Ils deviennent très proches et utilisent le retourneur de temps en compagnie de Delphi Diggory pour sauver Cedric et montrer à leurs parents ce dont ils sont capables. Scorpius apprend le décès de sa mère en cours d'année et Albus et lui sont en tension constante avec leur famille respective. Il est amoureux de Rose Weasley."
-	},{
+	},
+	{
 		"name":"Delphi Diggory",
 		"species":"human",
 		"gender":"female",

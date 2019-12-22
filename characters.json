@@ -1,407 +1,147 @@
 [
 	{
 		"name":"Harry Potter",
-		"species":"human",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"31-07-1980",
-		"ancestry":"half-blood",
-		"eyeColour":"green",
-		"hairColour":"black",
-		"patronus":"stag",
 		"actor":"Daniel Radcliffe",
-		"image":"http://im.rediff.com/movies/2011/jul/11slide1.jpg",
-		"resumer":""
+		"image":"http://im.rediff.com/movies/2011/jul/11slide1.jpg"
 	},
 	{
 		"name":"Hermione Granger",
-		"species":"human",
-		"gender":"female",
-		"house":"Gryffindor",
-		"dateOfBirth":"19-09-1979",
-		"ancestry":"muggleborn",
-		"eyeColour":"brown",
-		"hairColour":"brown",
-		"patronus":"otter",
 		"actor":"Emma Watson",
-		"image":"https://wingardium-leviosa.com/wp-content/uploads/2018/03/hermione-granger-personnage-categorie-1.jpg",
-		"resumer":""
+		"image":"https://wingardium-leviosa.com/wp-content/uploads/2018/03/hermione-granger-personnage-categorie-1.jpg"
 	},
 	{
 		"name":"Ron Weasley",
-		"species":"human",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"01-03-1980",
-		"ancestry":"pure-blood",
-		"eyeColour":"blue",
-		"hairColour":"red",
-		"patronus":"Jack Russell terrier",
 		"actor":"Rupert Grint",
-		"image":"http://3.bp.blogspot.com/-Qr9KWEiJY5I/TtDwkrDlRHI/AAAAAAAAABg/PMo3zTWI-os/s1600/rw.jpg",
-		"resumer":""
+		"image":"http://3.bp.blogspot.com/-Qr9KWEiJY5I/TtDwkrDlRHI/AAAAAAAAABg/PMo3zTWI-os/s1600/rw.jpg"
 	},
 	{
-		"name":"Draco Malfoy",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"05-06-1980",
-		"ancestry":"pure-blood",
-		"eyeColour":"grey",
-		"hairColour":"blonde",
-		"patronus":"",
+		"name":"Drago Malefoy",
 		"actor":"Tom Felton",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6d/Draco_Malfoyyy.jpg/revision/latest?cb=20090608163311",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6d/Draco_Malfoyyy.jpg/revision/latest?cb=20090608163311"
 	},
 	{
 		"name":"Minerva McGonagall",
-		"species":"human",
-		"gender":"female",
-		"house":"Gryffindor",
-		"dateOfBirth":"04-10-1925",
-		"ancestry":"",
-		"eyeColour":"",
-		"hairColour":"black",
-		"patronus":"tabby cat",
 		"actor":"Dame Maggie Smith",
-		"image":"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/34759146_2101430339885034_4244559867597029376_n.jpg?_nc_cat=110&_nc_ht=scontent-cdg2-1.xx&oh=b91d2885e2db5a3a6e0241b51fc0c4d0&oe=5D581EA9",
-		"resumer":""
+		"image":"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/34759146_2101430339885034_4244559867597029376_n.jpg?_nc_cat=110&_nc_ht=scontent-cdg2-1.xx&oh=b91d2885e2db5a3a6e0241b51fc0c4d0&oe=5D581EA9"
 	},
 	{
 		"name":"Cedric Diggory",
-		"species":"human",
-		"gender":"male",
-		"house":"Hufflepuff",
-		"dateOfBirth":"",
-		"ancestry":"",
-		"eyeColour":"grey",
-		"hairColour":"brown",
-		"patronus":"",
 		"actor":"Robert Pattinson",
-		"image":"https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F3304%2F79633304%2Fpics%2F3030636224_1_5_o2uqiz7P.jpg&w=240",
-		"resumer":""
+		"image":"https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F3304%2F79633304%2Fpics%2F3030636224_1_5_o2uqiz7P.jpg&w=240"
 	},{
 		"name":"Cho Chang",
-		"species":"human",
-		"gender":"female",
-		"house":"Ravenclaw",
-		"dateOfBirth":"",
-		"ancestry":"",
-		"eyeColour":"brown",
-		"hairColour":"black",
-		"patronus":"swan",
 		"actor":"Katie Leung",
-		"image":"https://i.pinimg.com/236x/aa/2e/03/aa2e03e3aaeda5534c21dfd4fe592967.jpg",
-		"resumer":""
+		"image":"https://i.pinimg.com/236x/aa/2e/03/aa2e03e3aaeda5534c21dfd4fe592967.jpg"
 	},
 	{
-		"name":"Severus Snape",
+		"name":"Severus Rogue",
 		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"09-01-1960",
-		"ancestry":"half-blood",
-		"eyeColour":"black",
-		"hairColour":"black",
-		"patronus":"doe",
 		"actor":"Alan Rickman",
-		"image":"https://vignette.wikia.nocookie.net/dumbledoresarmyroleplay/images/a/a3/Severus_Snape.jpg/revision/latest?cb=20130708213759",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/dumbledoresarmyroleplay/images/a/a3/Severus_Snape.jpg/revision/latest?cb=20130708213759"
 	},
 	{
 		"name":"Rubeus Hagrid",
-		"species":"half-giant",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"06-12-1928",
-		"ancestry":"half-blood",
-		"eyeColour":"black",
-		"hairColour":"black",
-		"patronus":"",
 		"actor":"Robbie Coltrane",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/e/ee/Rubeushagrid.PNG/revision/latest?cb=20161123044204",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/e/ee/Rubeushagrid.PNG/revision/latest?cb=20161123044204"
 	},
 	{
-		"name":"Neville Longbottom",
-		"species":"human",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"30-07-1980",
-		"ancestry":"pure-blood",
-		"eyeColour":"",
-		"hairColour":"blonde",
-		"patronus":"",
+		"name":"Neville Londubat",
 		"actor":"Matthew Lewis",
-		"image":"https://file1.closermag.fr/var/closermag/storage/images/media/images-des-contenus/actu-people/people-anglo-saxons/20150522-matthew/matthew-lewis-incarne-neville-londubat-dans-la-saga-harry-potter/4528446-1-fre-FR/Matthew-Lewis-incarne-Neville-Londubat-dans-la-saga-Harry-Potter_exact1024x768_p.jpg",
-		"resumer":""
+		"image":"https://file1.closermag.fr/var/closermag/storage/images/media/images-des-contenus/actu-people/people-anglo-saxons/20150522-matthew/matthew-lewis-incarne-neville-londubat-dans-la-saga-harry-potter/4528446-1-fre-FR/Matthew-Lewis-incarne-Neville-Londubat-dans-la-saga-Harry-Potter_exact1024x768_p.jpg"
 	},
 	{
 		"name":"Luna Lovegood",
-		"species":"human",
-		"gender":"female",
-		"house":"Ravenclaw",
-		"dateOfBirth":"13-02-1981",
-		"ancestry":"",
-		"eyeColour":"grey",
-		"hairColour":"blonde",
-		"patronus":"hare",
 		"actor":"Evanna Lynch",
-		"image":"http://pm1.narvii.com/6913/716d462775ef1f51d655a1d8afd289d999c9ae8dr1-1200-1601v2_00.jpg",
-		"resumer":""
+		"image":"http://pm1.narvii.com/6913/716d462775ef1f51d655a1d8afd289d999c9ae8dr1-1200-1601v2_00.jpg"
 	},
 	{
 		"name":"Ginny Weasley",
-		"species":"human",
-		"gender":"female",
-		"house":"Gryffindor",
-		"dateOfBirth":"11-08-1981",
-		"ancestry":"pure-blood",
-		"eyeColour":"brown",
-		"hairColour":"red",
-		"patronus":"horse",
 		"actor":"Bonnie Wright",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/3/39/PromoHP7_Ginny_Weasley.jpg/revision/latest?cb=20110901204301&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/3/39/PromoHP7_Ginny_Weasley.jpg/revision/latest?cb=20110901204301&path-prefix=fr"
 	},
 	{
 		"name":"Sirius Black",
-		"species":"human",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"03-11-1959",
-		"ancestry":"pure-blood",
-		"eyeColour":"grey",
-		"hairColour":"black",
-		"patronus":"hare",
 		"actor":"Gary Oldman",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/93/PromoHP5_Sirius_Black.jpg/revision/latest?cb=20090601145207&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/93/PromoHP5_Sirius_Black.jpg/revision/latest?cb=20090601145207&path-prefix=fr"
 	},
 	{
 		"name":"Remus Lupin",
-		"species":"werewolf",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"10-03-1960",
-		"ancestry":"half-blood",
-		"eyeColour":"green",
-		"hairColour":"brown",
-		"patronus":"wolf",
 		"actor":"David Thewlis",
-		"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mkwFPr01-vD0WHOwXJZjuPwIfd3aiY5UAB-KpwExNYAV6oiD",
-		"resumer":""
+		"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mkwFPr01-vD0WHOwXJZjuPwIfd3aiY5UAB-KpwExNYAV6oiD"
 	},
 	{
 		"name":"Arthur Weasley",
-		"species":"human",
-		"gender":"male",
-		"house":"Gryffindor",
-		"dateOfBirth":"06-02-1950",
-		"ancestry":"pure-blood",
-		"eyeColour":"blue",
-		"hairColour":"red",
-		"patronus":"weasel",
 		"actor":"Mark Williams",
-		"image":"http://ekladata.com/uMNuq-9Jt--rRn5vFdU1qQfcPIU@335x439.jpg",
-		"resumer":""
+		"image":"http://ekladata.com/uMNuq-9Jt--rRn5vFdU1qQfcPIU@335x439.jpg"
 	},
 	{
 		"name":"Bellatrix Lestrange",
-		"species":"human",
-		"gender":"female",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"brown",
-		"hairColour":"black",
-		"patronus":"",
 		"actor":"Helena Bonham Carter",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Bellatrix-promo-bellatrix-lestrange-28967575-1574-2100.jpg/revision/latest?cb=20141115084707&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Bellatrix-promo-bellatrix-lestrange-28967575-1574-2100.jpg/revision/latest?cb=20141115084707&path-prefix=fr"
 	},
 	{
 		"name":"Lord Voldemort",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"31-12-1926",
-		"ancestry":"half-blood",
-		"eyeColour":"red",
-		"hairColour":"bald",
-		"patronus":"",
 		"actor":"Ralph Fiennes",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest?cb=20161203031453",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest?cb=20161203031453"
 	},
 	{
 		"name":"Horace Slughorn",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"green",
-		"hairColour":"blonde",
-		"patronus":"",
 		"actor":"Jim Broadbent",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20100706114608",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20100706114608"
 	},
 	{
 		"name":"Kingsley Shacklebolt",
-		"species":"human",
-		"gender":"male",
-		"house":"",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"brown",
-		"hairColour":"brown",
-		"patronus":"lynx",
 		"actor":"George Harris",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/62/PromoHP5_Kingsley_Shacklebolt.jpg/revision/latest?cb=20080416111339&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/62/PromoHP5_Kingsley_Shacklebolt.jpg/revision/latest?cb=20080416111339&path-prefix=fr"
 	},
 	{
-		"name":"Dolores Umbridge",
-		"species":"human",
-		"gender":"female",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"half-blood",
-		"eyeColour":"brown",
-		"hairColour":"grey",
-		"patronus":"persian cat",
+		"name":"Dolores Ombrage",
 		"actor":"Imelda Staunton",
-		"image":"https://i.pinimg.com/736x/ab/ea/6d/abea6d7da68b6bb6881bf36673d0b9fc.jpg",
-		"resumer":""
+		"image":"https://i.pinimg.com/736x/ab/ea/6d/abea6d7da68b6bb6881bf36673d0b9fc.jpg"
 	},
 	{
 		"name":"Lucius Malfoy",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"grey",
-		"hairColour":"blonde",
-		"patronus":"",
 		"actor":"Jason Isaacs",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/c/ce/PromoHP5_Lucius_Malefoy.jpg/revision/latest?cb=20091110145939&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/c/ce/PromoHP5_Lucius_Malefoy.jpg/revision/latest?cb=20091110145939&path-prefix=fr"
 	},
 	{
 		"name":"Vincent Crabbe",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"black",
-		"hairColour":"black",
-		"patronus":"",
 		"actor":"Jamie Waylett",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/01/PromoHP3_Vincent_Crabbe.jpg/revision/latest?cb=20091021101504&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/0/01/PromoHP3_Vincent_Crabbe.jpg/revision/latest?cb=20091021101504&path-prefix=fr"
 	},
 	{
 		"name":"Gregory Goyle",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"",
-		"ancestry":"pure-blood",
-		"eyeColour":"",
-		"hairColour":"brown",
-		"patronus":"",
 		"actor":"Josh Herdman",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/9f/PromoHP3_Gregory_Goyle.jpg/revision/latest?cb=20091021125109&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/9/9f/PromoHP3_Gregory_Goyle.jpg/revision/latest?cb=20091021125109&path-prefix=fr"
 	},
 	{
-		"name":"Mrs Norris",
-		"species":"cat",
-		"gender":"female",
-		"house":"",
-		"dateOfBirth":"",
-		"ancestry":"",
-		"eyeColour":"yellow",
-		"hairColour":"brown",
-		"patronus":"",
+		"name":"Miss Teigne",
 		"actor":"Maxime, Alanis and Tommy the cats",
-		"image":"http://a51.idata.over-blog.com/0/41/67/66/mrs_teigne.jpg",
-		"resumer":""
+		"image":"http://a51.idata.over-blog.com/0/41/67/66/mrs_teigne.jpg"
 	},
 	{
-		"name":"Argus Filch",
-		"species":"human",
-		"gender":"male",
-		"house":"",
-		"dateOfBirth":"",
-		"ancestry":"squib",
-		"eyeColour":"",
-		"hairColour":"grey",
-		"patronus":"",
+		"name":"Argus Rusard",
 		"actor":"David Bradley",
-		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6f/Argus_Rusard_promo_HD.jpg/revision/latest?cb=20141114140114&path-prefix=fr",
-		"resumer":""
+		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/6/6f/Argus_Rusard_promo_HD.jpg/revision/latest?cb=20141114140114&path-prefix=fr"
 	},
 	{
 		"name":"Rose Granger-Weasley",
-		"species":"human",
-		"gender":"female",
-		"house":"Gryffondor",
-		"dateOfBirth":"between 2005 and 2006",
-		"ancestry":"half-blood",
-		"eyeColour":"black",
-		"hairColour":"brown",
-		"patronus":"no data",
 		"actor":"Helena Barlow and Cherrelle Skeete",
 		"image":"http://vignette4.wikia.nocookie.net/harrypotter/images/2/26/Rose_w.jpg/revision/latest?cb=20120517112206&path-prefix=pl",
-		"resumer":"Fille d'Hermione Granger et de Ron Weasley, elle se brouille avec Albus Severus Potter lorsque celui-ci devient ami avec Scorpius Malefoy. Scorpius en est amoureux."
 	},
 	{
 		"name":"Albus Potter",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"between 2005 and 2006",
-		"ancestry":"half-blood",
-		"eyeColour":"green",
-		"hairColour":"brown",
-		"patronus":"no data",
 		"actor":"Arthur Bowen and Sam Clemmett",
 		"image":"https://cnet3.cbsistatic.com/img/g61-UktfjHPk_ZRLW2Z5ep1C5BQ=/0x65:1183x1064/0x878/2016/05/31/81f8eb83-4083-4b99-a12d-2df19c5ae16a/albus-potter-sam-clemmett.jpg",
-		"resumer":"Albus Severus Potter est le second fils de Harry et Ginny. Il est le seul des enfants à avoir les yeux de Harry et de sa grand-mère Lily Potter. Il est joué par le jeune Arthur Bowen dans l'épilogue de Harry Potter et les Reliques de la Mort 2e partie. Il est également l'un des personnages principaux de la pièce de théâtre Harry Potter et l'Enfant maudit. Il est étudiant à Poudlard, dans la maison Serpentard, et son meilleur ami est Scorpius Malefoy, le fils du rival de son père, Drago Malefoy."
 	},
 	{
 		"name":"Scorpius Malefoy",
-		"species":"human",
-		"gender":"male",
-		"house":"Slytherin",
-		"dateOfBirth":"between 2005 and 2006",
-		"ancestry":"pure-blood",
-		"eyeColour":"gray",
-		"hairColour":"blond",
-		"patronus":"Scorpion",
 		"actor":"Bertie Gilbert and Anthony Boyle",
 		"image":"http://vignette3.wikia.nocookie.net/harrypotter/images/c/cd/Scorpius_Malfoy_%28HPCC%29.png/revision/latest?cb=20161122213423",
-		"resumer":"Scorpius Hyperion Malefoy est le fils de Drago Malefoy. C'est également le meilleur ami d'Albus Potter. Ils se rencontrent à bord du Poudlard Express, juste avant d'entamer leur première année. Ils se mettent côte à côte dans le train et sympathisent malgré leurs différences et leurs parents semblant se détester. Lorsque Scorpius est admis à Serpentard, Albus le suit. Ils deviennent très proches et utilisent le retourneur de temps en compagnie de Delphi Diggory pour sauver Cedric et montrer à leurs parents ce dont ils sont capables. Scorpius apprend le décès de sa mère en cours d'année et Albus et lui sont en tension constante avec leur famille respective. Il est amoureux de Rose Weasley."
 	},
 	{
 		"name":"Delphi Diggory",
-		"species":"human",
-		"gender":"female",
-		"house":"",
-		"dateOfBirth":"1998",
-		"ancestry":"pure-blood",
-		"eyeColour":"black",
-		"hairColour":"silver with blue highlights",
-		"patronus":"no data",
 		"actor":"Esther Smith",
 		"image":"https://vignette.wikia.nocookie.net/harrypotter/images/f/f1/Delphini_Diggory.jpg/revision/latest?cb=20190130115845",
-		"resumer":"Delphini « Delphi » Diggory, âgée d'une vingtaine d'années, est l'amie d'Albus et de Scorpius. Elle se présente comme étant la cousine de Cedric Diggory pour convaincre Albus Potter et Scorpius Malefoy de retourner dans le passé et empêcher la mort de Cedric. Toutefois, elle souhaite en réalité faire revenir Voldemort. À la fin de la pièce, on apprend qu'elle est la fille de Voldemort et de Bellatrix Lestrange : Delphini Jedusor.Elle possède des cheveux argentés avec des reflets bleus."
 	}
 ]

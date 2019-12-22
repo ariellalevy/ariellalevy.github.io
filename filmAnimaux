@@ -1,0 +1,19 @@
+[
+	{
+		"name":"Fantastic Beasts and Where to Find Them",
+		"year":"2016",
+		"director":"David Yates",
+		"producer":"David Heyman, J. K. Rowling, Steve Kloves and Lionel Wigram",
+		"resume":"",
+		"image":"https://upload.wikimedia.org/wikipedia/en/5/5e/Fantastic_Beasts_and_Where_to_Find_Them_poster.png",
+		"video":"FantasticBeasts1"
+	},{
+		"name":"Fantastic Beasts and The Crimes of Grindelwald",
+		"year":"2018",
+		"director":"David Yates",
+		"producer":"David Heyman, J. K. Rowling, Steve Kloves and Lionel Wigram",
+		"resume":"",
+		"image":"https://upload.wikimedia.org/wikipedia/en/3/3c/Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png",
+		"video":"FantasticBeasts2"
+	}
+]
